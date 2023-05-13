@@ -18,35 +18,19 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Davidjans`, `PortfolioCode`, `davidjans7`, `david-janssen-795a30172`, `email_client`, `Davidjejans@hotmail.nl`, `PortfolioCode`, `project_description`
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Any future project to add.
+- [ ] Comment the provided code at more complex areas.
+- [ ] Curate and clear the provided scripts a bit more.
+   <!-- - [ ] Nested Feature -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +38,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@davidjans7](https://twitter.com/davidjans7) - Davidjejans@hotmail.nl
+David Janssen - Twitter: [@davidjans7](https://twitter.com/davidjans7) - Email: Davidjejans@hotmail.nl - Discord : Davidjans#8008
 
 Project Link: [https://github.com/Davidjans/PortfolioCode](https://github.com/Davidjans/PortfolioCode)
 
