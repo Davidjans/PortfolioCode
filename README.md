@@ -45,11 +45,13 @@
 ## Iridos
 <p>You and your little buddy try to find the extra mask hidden in burried in the Iridos Pyramid with this irl/vr hybrid experience. You already have one of the masks required to breathe on the resource rich planet. But your little buddy is hiding out in your backpack until you find the second one. But luckily while he is in there he can easily provide you with info maps and puzzle solutions.</p>
 
+## SignalSprouts
+<p>Harness the magic of plants and break free from the enchanted garden. With his trusty bouquet of special flowers, farmer Harold will embark on a journey full of puzzles and excitement. Use the power of your blooms to send the perfect signals and make the right connections. Every flower has a unique impact on both the surroundings and other flowers. Get ready to become the master of the garden and make your escape.</p>
+
 ## ComponentSystem
 <p>his is just a quick little project to replicate unity's component based system in c++.</p>
 
-## SignalSprouts
-<p>Harness the magic of plants and break free from the enchanted garden. With his trusty bouquet of special flowers, farmer Harold will embark on a journey full of puzzles and excitement. Use the power of your blooms to send the perfect signals and make the right connections. Every flower has a unique impact on both the surroundings and other flowers. Get ready to become the master of the garden and make your escape.</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
