@@ -2,11 +2,10 @@
 <a name="readme-top"></a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+<h1><a href= "www.davidjans.nl">FULL PORTFOLIO AT WWW.DAVIDJANS.NL</a></h1>
 
 <!-- PROJECT LOGO -->
 <h3 align="center">My portfolio code</h3>
-
   <p align="center">
     A repo to show the code i want to represent my portfolio. That doesn't necesarrily mean its the best i have produced as i added all relevant code from those projects that i made.
   </p>
@@ -18,10 +17,40 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+   <li>
+      <a href="#about-the-project">About The Projects</a>
+      <ul>
+        <li><a href="#EndlessLight">Endless Light</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Iridos">Iridos</a></li>
+      </ul>
+      <ul>
+        <li><a href="#ComponentSystem">Component System</a></li>
+      </ul>
+      <ul>
+        <li><a href="#SignalSprouts">Signal Sprouts</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Projects
+## EndlessLight
+<p>Endless light is an adventure story game where you utilise your wax abilities in multiple ways to find your way to the endless light. The endless light is a symbol for the candle people. It has a pull on them and at some point in their life they feel the need to make this pilgrimage. Sadly not all make it through alive. But what awaits them at the end?</p>
+
+## Iridos
+<p>You and your little buddy try to find the extra mask hidden in burried in the Iridos Pyramid with this irl/vr hybrid experience. You already have one of the masks required to breathe on the resource rich planet. But your little buddy is hiding out in your backpack until you find the second one. But luckily while he is in there he can easily provide you with info maps and puzzle solutions.</p>
+
+## ComponentSystem
+<p>his is just a quick little project to replicate unity's component based system in c++.</p>
+
+## SignalSprouts
+<p>Harness the magic of plants and break free from the enchanted garden. With his trusty bouquet of special flowers, farmer Harold will embark on a journey full of puzzles and excitement. Use the power of your blooms to send the perfect signals and make the right connections. Every flower has a unique impact on both the surroundings and other flowers. Get ready to become the master of the garden and make your escape.</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
