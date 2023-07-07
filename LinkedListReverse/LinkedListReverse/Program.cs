@@ -76,8 +76,9 @@ namespace LinkedListReverse
             {
                 // This stores the next reference of the original order.
                 var originalNextNode = currentNode.NextNode;
-                // We change the reference of the next node to the previous node. This reverses the connection.
-                // in words of a normal list if the current index is 3 the next index will be the 2 instead of 4.
+                // We change the reference of the next node to the previous node. This reverses the connection. And continously moves the node to the correct position.
+                // if the first node is 6, second is 4, third is 1 next node for 6 gets set to null. the next for 4 is set to 6 and the next for 1 is set to 4 and so on if the list is longer.
+                // for the first node this will be set to null since it will now become the last node throughout this process.
                 currentNode.NextNode = previousNode;
                 //currentNode now becomes the previousNode
                 previousNode = currentNode;

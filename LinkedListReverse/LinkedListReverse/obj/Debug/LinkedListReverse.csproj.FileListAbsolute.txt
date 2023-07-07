@@ -5,3 +5,10 @@ D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.Sugg
 D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.CoreCompileInputs.cache
 D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.exe
 D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.pdb
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\bin\Debug\LinkedListReverse.exe
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\bin\Debug\LinkedListReverse.pdb
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.AssemblyReference.cache
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.SuggestedBindingRedirects.cache
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.CoreCompileInputs.cache
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\obj\Debug\LinkedListReverse.exe
+D:\Projects\PortfolioCode\LinkedListReverse\LinkedListReverse\obj\Debug\LinkedListReverse.pdb
