@@ -1,0 +1,7 @@
+D:\Projects\ronimotest\ronimotest\bin\Debug\ronimotest.exe
+D:\Projects\ronimotest\ronimotest\bin\Debug\ronimotest.pdb
+D:\Projects\ronimotest\ronimotest\obj\Debug\ronimotest.csproj.AssemblyReference.cache
+D:\Projects\ronimotest\ronimotest\obj\Debug\ronimotest.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ronimotest\ronimotest\obj\Debug\ronimotest.csproj.CoreCompileInputs.cache
+D:\Projects\ronimotest\ronimotest\obj\Debug\ronimotest.exe
+D:\Projects\ronimotest\ronimotest\obj\Debug\ronimotest.pdb

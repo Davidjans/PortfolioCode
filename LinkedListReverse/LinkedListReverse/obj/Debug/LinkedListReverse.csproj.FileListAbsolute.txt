@@ -1,0 +1,7 @@
+D:\Projects\ronimotest\LinkedListReverse\bin\Debug\LinkedListReverse.exe
+D:\Projects\ronimotest\LinkedListReverse\bin\Debug\LinkedListReverse.pdb
+D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.AssemblyReference.cache
+D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.csproj.CoreCompileInputs.cache
+D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.exe
+D:\Projects\ronimotest\LinkedListReverse\obj\Debug\LinkedListReverse.pdb
